@@ -1,5 +1,5 @@
 # Threading_game
-racing game that implement both :threading programmation technic in JAVA and Graphic interface on SWING
+Racing game that implement both :threading programmation technic in JAVA and Graphic interface on SWING
 <ul><h2>Utilities</h2>
 <li>Swing Graphic JAVA</li>
 <li>Threading concept used in Graphical interface</li>
