@@ -2,7 +2,7 @@ package src.com.inata.carapp.bo;
 
 /**
  * modelise une voiture
- * @author lalaina
+ * @author ManoloRaj
  *
  */
 public interface IVoiture {
