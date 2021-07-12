@@ -7,7 +7,7 @@ import java.lang.reflect.InvocationTargetException;
 
 /**
  * Thread pour lancer les voitures
- * @author lalaina
+ * @author ManoloRaj
  *
  */
 public class MyFirstThread extends Thread {
